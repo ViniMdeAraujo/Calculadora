@@ -1,4 +1,4 @@
-# QualidadeeTestesdeSoftware
+# Calculadora - Qualidade e testes de software
 
 Título do projeto: Calculadora;
 Pré-requisitos: Java, Netbeans, JUNIT;
